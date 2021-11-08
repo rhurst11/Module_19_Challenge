@@ -3,6 +3,17 @@
 ## This web application allows its users to select from a pool of developer talent with clearly defined rates, set the amount of desired labor hours, and pay a selected contractor with ethereum. This app runs on the Kovan testnet, so no real monetary value is being transferred. 
 
 ## Software requirements:
+Python 3.7
+streamlit
+dataclasses
+typing
+os
+requests
+dotenv
+bip44
+web3
+web3.auto.infura.kovan
+web3.gasstrategies.time_based
 
 ## Screenshots of App and Verification of Transaction 
 
